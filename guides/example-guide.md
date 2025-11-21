@@ -3,7 +3,7 @@ title: Example Guide - Router Configuration
 description: Learn how to configure your router for optimal performance with Olilo
 category: Setup
 author: Olilo Team
-lastUpdated: 2025-11-21
+lastUpdated: 21/11/2025
 ---
 
 # Router Configuration Guide
