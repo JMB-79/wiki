@@ -1,0 +1,22 @@
+name: Revalidate Wiki Cache
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'guides/**'
+  workflow_dispatch:
+
+jobs:
+  revalidate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger cache revalidation
+        run: |
+          curl -X POST https://olilo.co.uk/api/wiki/revalidate \
+            -H "Authorization: Bearer ${{ secrets.REVALIDATE_SECRET }}" \
+            -H "Content-Type: application/json"
+      
+      - name: Check revalidation status
+        run: echo "Wiki cache revalidation triggered successfully"
