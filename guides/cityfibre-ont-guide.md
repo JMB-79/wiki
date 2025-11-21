@@ -1,5 +1,5 @@
 ---
-title: Understanding Your CityFibe ONT
+title: Understanding Your CityFibre ONT
 description: Guide to your Optical Network Terminal and indicator lights
 category: Setup
 author: Aydan Abrahams
