@@ -10,6 +10,8 @@ lastUpdated: 21/11/2025
 
 Your ONT (Optical Network Terminal) is the bridge between the fibre network and your home.
 
+![CityFibre ONT](images/cityfibre-ont.png)
+
 ## What Does It Do?
 
 The ONT converts the light signals from the fibre network into standard ethernet that your router can use. It's a small box an engineer installed where the fibre enters your property.
