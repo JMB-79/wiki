@@ -22,6 +22,8 @@ lastUpdated: DD/MM/YYYY
 # Guide Title
 
 Brief introduction...
+
+![ImageAltName](images/ImageName.png)
 ```
 
 ### Writing Guidelines
@@ -58,8 +60,7 @@ Brief introduction...
 ### Style Guide
 
 **Email:** support@olilo.co.uk  
-**Discord:** discord.gg/olilo  
-**Live Chat:** Available on our website  
+**Discord:** discord.gg/olilo
 **Spelling:** UK English (fibre, optimise, colour, etc.)  
 **Tone:** Friendly, helpful, concise  
 
