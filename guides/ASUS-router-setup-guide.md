@@ -10,7 +10,7 @@ lastUpdated: 02/10/2026
 
 ASUS manufacture and supply a wide range of different router models, thankfully they all share similar software and for the purposes of this guide, the basic setup
 will be the same. 
-If, by logging into the web GUI it looks like [this](images/asus-router-guide-loginpage.png), this guide is for you (Note: The colours may be different on your GUI depending on the model of router.)
+If, by logging into the web GUI it looks like [this](main/images/asus-router-guide-loginpage.png), this guide is for you (Note: The colours may be different on your GUI depending on the model of router.)
 This guide assumes that you have switched to Olilo from another ISP, and are able log into the GUI through your browser.
 If you don't know how to do this, please refer to [here](https://www.asus.com/uk/support/faq/1005263/), and come back here once you have logged in.
 
